@@ -26,11 +26,7 @@
     <br /><br />
     <a href="https://docs.clearinsights.io"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://clearinsights.io/logging/">Application Logging</a>
-    ·
-    <a href="https://clearinsights.io/monitoring/">Application Monitoring</a>
-    ·
+    <br />    
     <a href="https://github.com/ClearInsights/ClearInsights.Console/issues">Report Bug</a>
     ·
     <a href="https://clearinsights.io/contact-us/">Request Feature</a>
